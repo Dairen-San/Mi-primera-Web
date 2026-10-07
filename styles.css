@@ -23,7 +23,7 @@ html
   /* Estilos del encabezado y Navegación */
 header 
  {background-color: #013e37; color: #fff;
-  padding: 1rem 2rem; display: flex; 
+  padding: 1rem 2rem; display: flex; gap: 1.5rem;
   justify-content: space-between; align-items: center;}
 nav ul 
   { display: flex; list-style: none; gap: 1.5rem;}
