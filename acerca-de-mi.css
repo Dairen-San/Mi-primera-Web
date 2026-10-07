@@ -42,7 +42,7 @@ display: inline-block;
 .btn {
 display: inline-block;
 padding: 12px 24px; 
-background: linear-gradient(135deg, #01556600, #05706c); /* Un tono azul moderno y limpio */
+background: linear-gradient(135deg, #01556600, #05706c);
 color: #ffffff;
 text-decoration: none;
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
